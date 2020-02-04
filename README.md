@@ -1,5 +1,7 @@
 # String
 
+>   c++에서도 람다식을 쓸 수 있다!
+
 ```
 #include <iostream>
 #include <string>
