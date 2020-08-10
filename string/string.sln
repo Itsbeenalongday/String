@@ -19,6 +19,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11656_접미사 배열", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1157_단어 공부", "1157_단어 공부\1157_단어 공부.vcxproj", "{F6345967-F5DF-43B4-943B-156EFDA0DABD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "text크기", "text크기\text크기.vcxproj", "{6252A8AC-2FCB-4C9B-BDFB-B3F8F51009AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2902_KMP는 왜KMP일까", "2902_KMP는 왜KMP일까\2902_KMP는 왜KMP일까.vcxproj", "{5987A517-BE18-426E-ADDA-BC73F8E87190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +95,22 @@ Global
 		{F6345967-F5DF-43B4-943B-156EFDA0DABD}.Release|x64.Build.0 = Release|x64
 		{F6345967-F5DF-43B4-943B-156EFDA0DABD}.Release|x86.ActiveCfg = Release|Win32
 		{F6345967-F5DF-43B4-943B-156EFDA0DABD}.Release|x86.Build.0 = Release|Win32
+		{6252A8AC-2FCB-4C9B-BDFB-B3F8F51009AA}.Debug|x64.ActiveCfg = Debug|x64
+		{6252A8AC-2FCB-4C9B-BDFB-B3F8F51009AA}.Debug|x64.Build.0 = Debug|x64
+		{6252A8AC-2FCB-4C9B-BDFB-B3F8F51009AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{6252A8AC-2FCB-4C9B-BDFB-B3F8F51009AA}.Debug|x86.Build.0 = Debug|Win32
+		{6252A8AC-2FCB-4C9B-BDFB-B3F8F51009AA}.Release|x64.ActiveCfg = Release|x64
+		{6252A8AC-2FCB-4C9B-BDFB-B3F8F51009AA}.Release|x64.Build.0 = Release|x64
+		{6252A8AC-2FCB-4C9B-BDFB-B3F8F51009AA}.Release|x86.ActiveCfg = Release|Win32
+		{6252A8AC-2FCB-4C9B-BDFB-B3F8F51009AA}.Release|x86.Build.0 = Release|Win32
+		{5987A517-BE18-426E-ADDA-BC73F8E87190}.Debug|x64.ActiveCfg = Debug|x64
+		{5987A517-BE18-426E-ADDA-BC73F8E87190}.Debug|x64.Build.0 = Debug|x64
+		{5987A517-BE18-426E-ADDA-BC73F8E87190}.Debug|x86.ActiveCfg = Debug|Win32
+		{5987A517-BE18-426E-ADDA-BC73F8E87190}.Debug|x86.Build.0 = Debug|Win32
+		{5987A517-BE18-426E-ADDA-BC73F8E87190}.Release|x64.ActiveCfg = Release|x64
+		{5987A517-BE18-426E-ADDA-BC73F8E87190}.Release|x64.Build.0 = Release|x64
+		{5987A517-BE18-426E-ADDA-BC73F8E87190}.Release|x86.ActiveCfg = Release|Win32
+		{5987A517-BE18-426E-ADDA-BC73F8E87190}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
